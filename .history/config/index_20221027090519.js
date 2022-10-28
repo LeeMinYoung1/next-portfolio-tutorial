@@ -1,0 +1,1 @@
+export const DATABASE_ID = process.env.NOTIONDATABASE_ID
